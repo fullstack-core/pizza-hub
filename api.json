@@ -1,0 +1,597 @@
+{
+    "-MR0RGzzOrSnojqc_etu": {
+        "id": "53487594-911a-4645-95f2-c5429aa61651",
+        "image": "https://i.imgur.com/Xu61fbu.jpg",
+        "ingDescription": "Beef pepperoni, Italian sausage, Green peppers, mushrooms & onions",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/wlNbkpY.png",
+                "ingredient": "Mushrooms",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/u8vKJwQ.png",
+                "ingredient": "Italian Sausage",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/4eKDshi.png",
+                "ingredient": "Green peppers",
+                "price": 1,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            }
+        ],
+        "name": "Delux Feast",
+        "pizzaType": [
+            "beef"
+        ],
+        "price": 50
+    },
+    "-MR0RH-zraldhLVv5O37": {
+        "id": "238a1fc9-e809-4aa1-9d75-c455d6c2aafb",
+        "image": "https://i.imgur.com/O8mTkO7.jpg",
+        "ingDescription": "Marinated Chicken, BBQ Sauce with Onions",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8dxLUAE.png",
+                "ingredient": "BBQ Sauce",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/9mgcbeE.png",
+                "ingredient": "Marinated Chicken",
+                "price": 5,
+                "state": "regular"
+            }
+        ],
+        "name": "BBQ Feast",
+        "pizzaType": [
+            "chicken"
+        ],
+        "price": 30
+    },
+    "-MR0RH0_rU1UXInHEJFd": {
+        "id": "c04d92ee-b7f2-4529-83dd-eb5a668e3825",
+        "image": "https://i.imgur.com/MQCOxiW.jpeg",
+        "ingDescription": "Beef, onions, black olives and jalapenos",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Black Olives",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Beef",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/FWPWDyZ.png",
+                "ingredient": "Jalapenos",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            }
+        ],
+        "name": "Hot & Spicy Feast",
+        "pizzaType": [
+            "beef"
+        ],
+        "price": 35
+    },
+    "-MR0RH0i9hLrqmGhjLbC": {
+        "id": "0d44f4f1-ca8c-4891-a743-ebab330abd33",
+        "image": "https://i.imgur.com/FQiukqk.jpeg",
+        "ingDescription": "Beef pepperoni, Italian sausage, beef, onions, green peppers, mushrooms & black olives",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/wlNbkpY.png",
+                "ingredient": "Mushrooms",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/u8vKJwQ.png",
+                "ingredient": "Italian Sausage",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/4eKDshi.png",
+                "ingredient": "Green peppers",
+                "price": 1,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Black Olives",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Beef",
+                "price": 2,
+                "state": "regular"
+            }
+        ],
+        "name": "Extravaganzza Feast",
+        "pizzaType": [
+            "pepperoni"
+        ],
+        "price": 55
+    },
+    "-MR0RH1TrbXzf2x-QMiO": {
+        "id": "7d481d48-ac50-4976-a37a-4fed92d71546",
+        "image": "https://i.imgur.com/qMhGGtL.jpg",
+        "ingDescription": "A rich layer of 100% real mozzarella cheese. Enjoy it on its own",
+        "ingredients": [{
+            "icon": "https://i.imgur.com/rW86yJe.png",
+            "ingredient": "Mozzarella Cheese",
+            "price": 5,
+            "state": "regular"
+        }],
+        "name": "Margherita",
+        "pizzaType": [
+            "cheese"
+        ],
+        "price": 40
+    },
+    "-MR0RH1kal6quhV48zT2": {
+        "id": "46c8c57a-88c4-413b-97db-2e07c0b18a2a",
+        "image": "https://i.imgur.com/rcSZnVN.jpeg",
+        "ingDescription": "Sweet Hawaiian pineapple & beef pepperoni",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/EmMeYFS.png",
+                "ingredient": "Sweet Hawaiian pineapple",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            }
+        ],
+        "name": "Hawaiian Feast",
+        "pizzaType": [
+            "pepperoni"
+        ],
+        "price": 40
+    },
+    "-MR0RH2R6NOJMP8ACjnd": {
+        "id": "854c1e5d-009f-4110-8c08-591eb1b20032",
+        "image": "https://i.imgur.com/o4Km2pD.jpg",
+        "ingDescription": "Beef pepperoni, mushrooms and Italiano sausage",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/u8vKJwQ.png",
+                "ingredient": "Italian Sausage",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/wlNbkpY.png",
+                "ingredient": "Mushrooms",
+                "price": 2,
+                "state": "regular"
+            }
+        ],
+        "name": "Italiano Feast",
+        "pizzaType": [
+            "pepperoni"
+        ],
+        "price": 50
+    },
+    "-MR0RH3KgFSxalXnat8z": {
+        "id": "d6b741bb-d79e-4a31-a6c7-6360f72e0359",
+        "image": "https://i.imgur.com/3ZGFWjX.jpeg",
+        "ingDescription": "Beef pepperoni, Italian sausage & beef",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/u8vKJwQ.png",
+                "ingredient": "Italian Sausage",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Beef",
+                "price": 2,
+                "state": "regular"
+            }
+        ],
+        "name": "Meatzza Feast",
+        "pizzaType": [
+            "pepperoni",
+            "beef"
+        ],
+        "price": 125
+    },
+    "-MR0RH45PEaXAxeFmA7c": {
+        "id": "db9c1615-ca6d-40e0-892b-ade8c1f5cffa",
+        "image": "https://i.imgur.com/8M6zSLB.jpeg",
+        "ingDescription": "Beef Pepperoni with Mozzarella and Pizza Hub's Special Sauce",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/1loIqQN.png",
+                "ingredient": "Pizza Hub's Special Sauce",
+                "price": 4,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/rW86yJe.png",
+                "ingredient": "Mozzarella Cheese",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/K8hIfol.png",
+                "ingredient": "Beef pepperoni",
+                "price": 3,
+                "state": "regular"
+            }
+        ],
+        "name": "Pepperoni Feast",
+        "pizzaType": [
+            "Pepperoni",
+            "special"
+        ],
+        "price": 80
+    },
+    "-MR0RH4DjK8RaDaNPRaj": {
+        "id": "db01772b-a99e-4648-9426-410dac86acb7",
+        "image": "https://i.imgur.com/tMG1FMS.jpg",
+        "ingDescription": "Marinated chicken topped with onions, green pepper and black olives. Spice it up with jalapenos",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/9mgcbeE.png",
+                "ingredient": "Marinated Chicken",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/4eKDshi.png",
+                "ingredient": "Green peppers",
+                "price": 1,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/PFvzIp9.png",
+                "ingredient": "Black Olives",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            }
+        ],
+        "name": "Tex-Mex Feast",
+        "pizzaType": [
+            "chicken"
+        ],
+        "price": 25
+    },
+    "-MR0RH562f8cLwoDAkZJ": {
+        "id": "e7f29f73-7860-422f-a817-648e6c18e16e",
+        "image": "https://i.imgur.com/WAcHjuT.jpg",
+        "ingDescription": "Pure breast grilled chicken, onions, with ranch",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/OzRv7v3.png",
+                "ingredient": "Grilled Chicken",
+                "price": 15,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/etTFmM0.png",
+                "ingredient": "Ranch",
+                "price": 6,
+                "state": "regular"
+            }
+        ],
+        "name": "Chicken Legend Ranch",
+        "pizzaType": [
+            "chicken"
+        ],
+        "price": 70
+    },
+    "-MR0RH5A4qVdFwjPhX0o": {
+        "id": "c457e41a-d039-498f-bd3b-e8944a14e8ba",
+        "image": "https://i.imgur.com/GyN4fJo.jpeg",
+        "ingDescription": "Pure breast grilled chicken, onions, with hot Sauce",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/OzRv7v3.png",
+                "ingredient": "Grilled Chicken",
+                "price": 15,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/a4InqZ5.png",
+                "ingredient": "Hot Sauce",
+                "price": 6,
+                "state": "regular"
+            }
+        ],
+        "name": "Chicken Legend Hot",
+        "pizzaType": [
+            "chicken"
+        ],
+        "price": 65
+    },
+    "-MR0RH5fP4qgBVSDwHsC": {
+        "id": "b25c5643-d0a8-4b1d-ad9e-91f437413761",
+        "image": "https://i.imgur.com/muowafB.jpeg",
+        "ingDescription": "Pure breast grilled chicken, onions, with BBQ sauce",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/OzRv7v3.png",
+                "ingredient": "Grilled Chicken",
+                "price": 15,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8PHUUHe.png",
+                "ingredient": "Cheese",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8dxLUAE.png",
+                "ingredient": "BBQ Sauce",
+                "price": 6,
+                "state": "regular"
+            }
+        ],
+        "name": "Chicken Legend BBQ",
+        "pizzaType": [
+            "chicken"
+        ],
+        "price": 80
+    },
+    "-MR0RH6hIstEB875JWDZ": {
+        "id": "1cccc0d7-d674-434b-9f84-0e706b50f0c5",
+        "image": "https://i.imgur.com/ivOQIIE.jpeg",
+        "ingDescription": "Tender slices of Philly steak with a blend of melted cheese, onions, green peppers & mushrooms",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/SRNA7Wa.png",
+                "ingredient": "Philly Steak",
+                "price": 20,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/rW86yJe.png",
+                "ingredient": "Melted Cheese",
+                "price": 6,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/4eKDshi.png",
+                "ingredient": "Green peppers",
+                "price": 1,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/wlNbkpY.png",
+                "ingredient": "Mushrooms",
+                "price": 2,
+                "state": "regular"
+            }
+        ],
+        "name": "Phily Cheese Steak",
+        "pizzaType": [
+            "beef",
+            "cheese"
+        ],
+        "price": 150
+    },
+    "-MR0RH7K-IpWdDcnlvPI": {
+        "id": "582aa606-38eb-42d2-acc0-8f93fc2f3aea",
+        "image": "https://i.imgur.com/PeNiyNs.jpg",
+        "ingDescription": "Chicken Kickers, onions, mozzarella cheese, american slices cheese and jalapeno with a hint of oregano topped with BBQ Sauce",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/9mgcbeE.png",
+                "ingredient": "Chicken Kickers",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/rW86yJe.png",
+                "ingredient": "Mozzarella Cheese",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/8dxLUAE.png",
+                "ingredient": "BBQ Sauce",
+                "price": 6,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/FWPWDyZ.png",
+                "ingredient": "Jalapenos",
+                "price": 3,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/Iu7u48M.png",
+                "ingredient": "Onions",
+                "price": 2,
+                "state": "regular"
+            }
+        ],
+        "name": "Kickers Pizza BBQ Sauce",
+        "pizzaType": [
+            "chicken",
+            "special"
+        ],
+        "price": 120
+    },
+    "-MR0RH7ZIPXjMnXdA_Ne": {
+        "id": "0e3773d3-2c60-496e-bbd4-9adad2d8ae50",
+        "image": "https://i.imgur.com/OWFcvkH.jpg",
+        "ingDescription": "Original Alfredo Sauce, Grilled Chicken Breast Pieces, Mozzarella Cheese, Slices of Fresh Mushroom.",
+        "ingredients": [{
+                "icon": "https://i.imgur.com/MLNhEZK.jpg",
+                "ingredient": "Alfredo Sauce",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/rW86yJe.png",
+                "ingredient": "Mozzarella Cheese",
+                "price": 5,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/wlNbkpY.png",
+                "ingredient": "Mushrooms",
+                "price": 2,
+                "state": "regular"
+            },
+            {
+                "icon": "https://i.imgur.com/OzRv7v3.png",
+                "ingredient": "Grilled Chicken",
+                "price": 15,
+                "state": "regular"
+            }
+        ],
+        "name": "Alfredo Pizza",
+        "pizzaType": [
+            "chicken",
+            "special"
+        ],
+        "price": 100
+    }
+}
+1
